@@ -20,7 +20,7 @@ My technical interests include Python programming, Cloud Computing, Cybersecurit
 I am committed to expanding my technical expertise and staying up to date with emerging technologies. This GitHub profile showcases my projects, learning journey, and contributions as I continue to grow as a technology professional.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://github.com/bandarupavani1210)
+### [🏆 Check Out My Full Portfolio Website](https://bandarupavani1210.github.io/)
       
 ## 🌱 Currently Learning 
 
